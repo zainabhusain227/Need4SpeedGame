@@ -5,6 +5,7 @@ using UnityEngine;
 public class VariableScript : MonoBehaviour
 {
     public int x;
+    public string car;
     // Start is called before the first frame update
     void Start()
     {
